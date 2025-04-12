@@ -7,3 +7,4 @@
 # Временные файлы и IDE stuff
 __pycache__/
 .DS_Store
+checkpoint/
